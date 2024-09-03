@@ -12,39 +12,41 @@ O projeto **wpp-ui** é uma aplicação mobile construída com React Native e Ex
 
 ## Estrutura de Pastas
 
+```
 ├── .gitignore
 ├── App.tsx
 ├── app.json
 ├── assets/
-│ ├── adaptive-icon.png
-│ ├── favicon.png
-│ ├── icon.png
-│ └── splash.png
+│   ├── adaptive-icon.png
+│   ├── favicon.png
+│   ├── icon.png
+│   └── splash.png
 ├── babel.config.js
 ├── bun.lockb
 ├── estrutura_pasta.txt
 ├── package.json
 ├── src/
-│ ├── @types/
-│ │ └── nativewind.d.ts
-│ ├── components/
-│ │ ├── HeaderPrincipal.tsx
-│ │ ├── HeaderTalk.tsx
-│ │ └── List.tsx
-│ ├── routes/
-│ │ ├── app/
-│ │ │ ├── stack.routes.tsx
-│ │ │ └── tab.routes.tsx
-│ │ └── routes.tsx
-│ └── screens/
-│ ├── atualizacoes.tsx
-│ ├── configuracoes.tsx
-│ ├── conversas/
-│ │ └── conversa.tsx
-│ ├── conversas.tsx
-│ └── ligacoes.tsx
+│   ├── @types/
+│   │   └── nativewind.d.ts
+│   ├── components/
+│   │   ├── HeaderPrincipal.tsx
+│   │   ├── HeaderTalk.tsx
+│   │   └── List.tsx
+│   ├── routes/
+│   │   ├── app/
+│   │   │   ├── stack.routes.tsx
+│   │   │   └── tab.routes.tsx
+│   │   └── routes.tsx
+│   └── screens/
+│       ├── atualizacoes.tsx
+│       ├── configuracoes.tsx
+│       ├── conversas/
+│       │   └── conversa.tsx
+│       ├── conversas.tsx
+│       └── ligacoes.tsx
 ├── tailwind.config.js
 └── tsconfig.json
+```
 
 ## Tecnologias Principais
 
